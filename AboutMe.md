@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://profile.indeed.com/p/ulisesa-lfm3n5l">
-  <img src="https://img.shields.io/badge/Indeed-FFFFFF?style=for-the-badge&logo=indeed&logoColor=0072b1&color=0072b1" />
+  <img src="https://img.shields.io/badge/Indeed-0072b1?style=for-the-badge&logo=indeed&logoColor=white&labelColor=0072b1" />
 </a>
 
 <!--
