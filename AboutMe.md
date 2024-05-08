@@ -6,7 +6,7 @@
 </a>
 <span style="margin-right: 10px;"></span> <!-- Add some space between badges -->
 <a href="https://profile.indeed.com/p/ulisesa-lfm3n5l">
-  <img src="https://img.shields.io/badge/Indeed-0072b1?style=for-the-badge&logo=indeed&logoColor=white&labelColor=0072b1" />
+  <img src=https://img.shields.io/badge/Indeed-FFFFFF?style=for-the-badge&logo=indeed&logoColor=0072b1&labelColor=0072b1" />
 </a>
 
 
