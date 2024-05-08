@@ -5,8 +5,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.indeed.com/me/yourusername">
-  <img src="https://img.shields.io/badge/Indeed-0072b1?style=for-the-badge&logo=indeed&logoColor=white" />
+  <img src="https://img.shields.io/badge/Indeed-808080?style=for-the-badge&logo=indeed&logoColor=white" />
 </a>
+
 
 <!--
 **uli385899/uli385899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
