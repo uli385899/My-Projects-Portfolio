@@ -4,11 +4,9 @@
 <a href="https://www.linkedin.com/in/ulises-aguilar-46794825a/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<span style="margin-right: 10px;"></span> <!-- Add some space between badges -->
-<a href="https://profile.indeed.com/p/ulisesa-lfm3n5l">
-  <img src=https://img.shields.io/badge/Indeed-FFFFFF?style=for-the-badge&logo=indeed&logoColor=0072b1&labelColor=0072b1" />
+<a href="https://www.indeed.com/me/yourusername">
+  <img src="https://img.shields.io/badge/Indeed%20Profile-View%20Profile-brightgreen" />
 </a>
-
 
 <!--
 **uli385899/uli385899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
