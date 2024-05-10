@@ -1,5 +1,7 @@
 # Greetings earthling, Im Uli 👽
 
+I am a service technician that is trying to transition into the cybersecurity field. I grew a profound interest in technology and digital security since I've been a victim of cyber attacks.
+
 # Personal Links
 <a href="https://www.linkedin.com/in/ulises-aguilar-46794825a/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
