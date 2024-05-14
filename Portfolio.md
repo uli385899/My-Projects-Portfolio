@@ -1,4 +1,6 @@
 # Greetings earthling, Im Uli 👽
+Pronouns: He/Him
+Age: 25
 
 I am a service technician that is trying to transition into the cybersecurity field. I grew a profound interest in technology and digital security since I've been a victim of cyber attacks.
 
@@ -13,7 +15,8 @@ My self learning path in computer science has led me to develop a passion to bec
   <img src="https://img.shields.io/badge/Indeed-808080?style=for-the-badge&logo=indeed&logoColor=white" />
 </a>
 
-
+# What I'm currently working on
+I'm currently enrolled in the Penetration Tester Path on *Hack The Box Academy*. Learning various attack vectors and bash tools help me create a hacker's mindset which improves my ability to defend against attacks.  
 <!--
 **uli385899/uli385899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
