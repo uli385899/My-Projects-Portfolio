@@ -16,7 +16,7 @@ My self learning path in computer science has led me to develop a passion to bec
 
 # What I'm currently working on
 I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB CPTS) path on *Hack The Box Academy*. Learning various attack vectors and bash tools help me create a hacker's mindset which improves my ability to defend against attacks.  
-[![Hack The Box Progress](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-14%20155631.png?raw=true)
+[![Hack The Box Progress](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-14%20155631.png)
 ## HTB Earned Badges
 [![Nmap](https://img.shields.io/badge/Nmap-ffffff?style=for-the-badge&logoColor=grey)](https://academy.hackthebox.com/achievement/badge/5f80b67c-c13b-11ee-891c-bea50ffe6cb4)
 [![Intel](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
