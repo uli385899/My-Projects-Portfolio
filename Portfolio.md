@@ -16,4 +16,7 @@ My self learning path in computer science has led me to develop a passion to bec
 
 # What I'm currently working on
 I'm currently enrolled in the Penetration Tester Path on *Hack The Box Academy*. Learning various attack vectors and bash tools help me create a hacker's mindset which improves my ability to defend against attacks.  
-![Progress](link_to_your_image.jpg)
+[![Hack The Box Progress](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](link_to_your_image.jpg)
+
+
+
