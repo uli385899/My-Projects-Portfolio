@@ -1,6 +1,5 @@
 # Greetings earthling, Im Uli 👽
 Pronouns: He/Him
-Age: 25
 
 I am a service technician that is trying to transition into the cybersecurity field. I grew a profound interest in technology and digital security since I've been a victim of cyber attacks.
 
