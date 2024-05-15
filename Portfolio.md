@@ -21,6 +21,9 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 [![Nmap](https://img.shields.io/badge/Nmap-ffffff?style=for-the-badge&logoColor=grey)](https://academy.hackthebox.com/achievement/badge/5f80b67c-c13b-11ee-891c-bea50ffe6cb4)
 [![Intel](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
 
+# Projects
+## Home Network with SIEM 
+It's very simple, a combination of subnetting and virtualization that I monitor with the *Splunk* SIEM.
 
 
 
