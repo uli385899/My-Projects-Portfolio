@@ -23,7 +23,7 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 
 # Projects
 ## Home Network with SIEM 
-It's very simple, a combination of subnetting and virtualization that I monitor with the *Splunk* SIEM.
+It's very simple, a virtualized network that I monitor with the *Elastic* SIEM.
 
 
 
