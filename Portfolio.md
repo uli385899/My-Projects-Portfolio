@@ -23,7 +23,8 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 
 # Projects
 ## Kali VM SIEM 
-![Kali VM SIEM](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154319.png)
-It's very simple, a virtualized network monitored with the *Elastic* Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding addresses.
+![Kali VM SIEM](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png)
+![Kali VM SIEM](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154944.png)
+It's very simple, a virtualized network monitored with the *Elastic* Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
 
 
