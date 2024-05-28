@@ -29,3 +29,5 @@ It's very simple, a virtualized network monitored with the *Elastic* Cloud SIEM.
 
 ## Internet Connection Sharing(ICS) for VPN utilization on unsupported devices
 As a competitive *Tom Clancy's Rainbow Six Siege* player on console, I would experience recurring DDoS attacks. Opposing players would use third-party websites to resolve gamertags to IP addresses, such as Octosniffer and XResolver, using that information to *boot* players offline using DDoS panels.
+![ICS](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20173445.png)
+Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastructure problem. To safeguard myself, I forwarded a VPN service to my gaming console via Ethernet, utilizing Windows built-in Internet Connection Sharing (ICS) feature from my desktop.
