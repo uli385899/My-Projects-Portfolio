@@ -22,7 +22,7 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 [![Intel](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
 
 # Projects
-## Home Network with SIEM 
+## Kali VM SIEM 
 It's very simple, a virtualized network monitored with the *Elastic* Cloud SIEM. All alerted data is forwarded to my email, containing the severity level and subject of matter. 
 
 
