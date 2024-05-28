@@ -23,7 +23,7 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 
 # Projects
 ## Home Network with SIEM 
-It's very simple, a virtualized Kali Linux network that I monitor with the *Elastic* Cloud SIEM. All alerted data is forwarded to my email, containing the severity level and subject of 
+It's very simple, a virtualized network monitored with the *Elastic* Cloud SIEM. All alerted data is forwarded to my email, containing the severity level and subject of matter. 
 
 
 
