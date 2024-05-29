@@ -35,6 +35,6 @@ Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastr
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20175405.png" alt="VPN Server" style="max-width: 100%;" />
-    <img src="https://github.com/uli385899/uli385899/blob/main/.assets/IMG_2236.PNG" alt="Game's Server" style="max-width: 25%;" />
+    <img src="https://github.com/uli385899/uli385899/blob/main/.assets/IMG_2236.PNG" alt="game server" style="max-width: 25%;" />
 </div>
 
