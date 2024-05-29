@@ -43,3 +43,4 @@ Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastr
 
 As you can see, the VPN server has successfully been bridged to my gaming console as I'm connected to a server in the European region.
 
+---
