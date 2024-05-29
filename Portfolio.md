@@ -39,7 +39,7 @@ Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastr
 
 ---
 
-![vpn on the game server](https://github.com/uli385899/uli385899/blob/main/.assets/Untitled.png)
+![vpn on the game server](https://github.com/uli385899/uli385899/blob/main/.assets/Untitled1.png)
 
 As you can see, the VPN server has successfully been bridged to my gaming console as I'm connected to a server in the European region.
 
