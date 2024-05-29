@@ -33,6 +33,9 @@ As a competitive *Tom Clancy's Rainbow Six Siege* player on console, I would exp
 ![ICS](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20173445.png)
 Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastructure problem. To safeguard myself, I forwarded a VPN service to my gaming console via Ethernet, utilizing Windows built-in Internet Connection Sharing (ICS) feature on my desktop.
 
-![vpn server(325 x 518)](https://github.com/uli385899/uli385899/blob/main/.assets/vpn_sever.png)
-![game server(1920 x 1080)](https://github.com/uli385899/uli385899/blob/main/.assets/IMG_2236.PNG)
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/uli385899/uli385899/blob/main/.assets/vpn_sever.png" alt="VPN Server" width="325" height="518" style="height: 100%;" />
+    <img src="https://github.com/uli385899/uli385899/blob/main/.assets/IMG_2236.PNG" alt="Game Server" width="960" height="540" style="height: 100%;" />
+</div>
+
 As you can see, the VPN server has successfully been bridged to my gaming console.
