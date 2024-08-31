@@ -91,8 +91,12 @@ For a detailed walkthrough of the project, including the SQL queries used and th
 <summary>Risk Register</summary>
 
 ## Risk Register
-A risk register is an essential tool for identifying, assessing, and managing potential risks that could adversely affect an organization or project. It acts as a centralized repository, providing a structured approach to risk management by documenting all identified risks and their associated mitigation strategies.
+A risk register is an essential tool for identifying, assessing, and managing potential risks that could adversely affect an organization or project. It acts as a centralized repository, providing a structured approach to risk management by documenting all identified risks.
 
-For this project, I developed a risk register for a fictional bank situated in a coastal region, focusing on compliance and regulatory requirements set by the Federal Reserve. The assessment highlights key risks related to the bank’s operations and outlines measures to ensure adherence to these critical regulatory standards.
+For this project, I developed a risk register for a fictional bank situated in a coastal region, focusing on compliance and regulatory requirements set by the Federal Reserve. The assessment highlights key risks related to the bank’s operations and ensures adherence to these critical regulatory standards.
+
+For the risk register document, please refer to the PDF file linked below:
+
+[View Risk Register PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Risk%20register.pdf)
 
 </details>
