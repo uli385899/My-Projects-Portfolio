@@ -21,53 +21,51 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 
 # Personal Projects
 
-## Security Information and Event Management (SIEM) 
+<details>
+<summary>Security Information and Event Management (SIEM)</summary>
 
 It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
-
----
 
 ![Kali VM SIEM 1](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png)
 ![Kali VM SIEM 2](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154944.png)
 
----
+</details>
 
-## Internet Connection Sharing (ICS) for VPN utilization on unsupported devices
+<details>
+<summary>Internet Connection Sharing (ICS) for VPN utilization on unsupported devices</summary>
 
 As a competitive *Tom Clancy's Rainbow Six Siege* player on console, I would experience recurring DDoS attacks. Opposing players would use third-party websites to resolve gamertags to IP addresses, such as Octosniffer and XResolver, using that information to *boot* players offline using DDoS panels.
-
----
 
 ![ICS](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20173445.png)
 
 Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastructure problem. To safeguard myself, I forwarded a VPN service to my gaming console via Ethernet, utilizing Windows built-in Internet Connection Sharing (ICS) feature on my desktop.
 
----
-
 ![vpn on the game server](https://github.com/uli385899/uli385899/blob/main/.assets/Untitled1.png)
 
 As you can see, the VPN server has successfully been bridged to my gaming console as I'm connected to a server in the European region.
 
----
+</details>
 
 # Google Cybersecurity Course Projects
 
-## Incident Handler's Journal
+<details>
+<summary>Incident Handler's Journal</summary>
 
 Throughout my cybersecurity course, I utilized the incident handler's journal, a vital tool for tracking and managing security incidents. This journal provides a detailed record of each incident, including the date, description, tools used, timelines, and additional notes. It serves as a reference for past experiences, helping to improve future responses and ensuring comprehensive documentation for compliance and analysis.
-
----
 
 Journal Entry: Hospital Ransomware Attack
 
 ![entry1](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-08-30%20211511.png)
 
----
+</details>
 
-## Applying filters to SQL queries 
+<details>
+<summary>Applying filters to SQL queries</summary>
 
 In this project, I was tasked with analyzing and reporting on suspicious activities detected by the organization's monitoring system that occurred outside of regular business hours. The process involved applying various SQL filters to retrieve and examine relevant data, allowing for more efficient identification of potential security incidents.
 
 For a detailed walkthrough of the project, including the SQL queries used and the results obtained, please refer to the PDF linked below:
 
 [View SQL Filters Project PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Apply%20filters%20to%20SQL%20queries%202.pdf)
+
+</details>
