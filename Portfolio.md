@@ -58,7 +58,7 @@ As you can see, the VPN server has successfully been bridged to my gaming consol
 <hr>
 </details>
 
-# Google Cybersecurity Coursera Projects
+# Google Cybersecurity Coursera 
 
 <details>
 <summary>Incident Handler's Journal</summary>
