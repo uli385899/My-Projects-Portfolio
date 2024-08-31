@@ -66,6 +66,7 @@ Journal Entry: Hospital Ransomware Attack
 
 ## Applying filters to SQL queries 
 
-I was assigned to analyze and report on suspicious activities flagged by the organization's system, which occurred outside of business hours.
+In this project, I was tasked with analyzing and reporting on suspicious activities detected by the organization's monitoring system that occurred outside of regular business hours. The process involved applying various SQL filters to retrieve and examine relevant data, allowing for more efficient identification of potential security incidents.
 
-[sqlPDFProject](https://github.com/uli385899/uli385899/blob/main/.assets/Apply%20filters%20to%20SQL%20queries.pdf)
+For a detailed walkthrough of the project, including the SQL queries used and the results obtained, please refer to the PDF linked below:
+[View SQL Filters Project PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Apply%20filters%20to%20SQL%20queries.pdf)
