@@ -53,6 +53,7 @@ As you can see, the VPN server has successfully been bridged to my gaming consol
 <details>
 <summary>Incident Handler's Journal</summary>
 
+## Incident Handler's Journal
 Throughout my cybersecurity course, I utilized the incident handler's journal, a vital tool for tracking and managing security incidents. This journal provides a detailed record of each incident, including the date, description, tools used, timelines, and additional notes. It serves as a reference for past experiences, helping to improve future responses and ensuring comprehensive documentation for compliance and analysis.
 
 Journal Entry: Hospital Ransomware Attack
@@ -64,6 +65,7 @@ Journal Entry: Hospital Ransomware Attack
 <details>
 <summary>Applying filters to SQL queries</summary>
 
+## Applying filters to SQL queries
 In this project, I was tasked with analyzing and reporting on suspicious activities detected by the organization's monitoring system that occurred outside of regular business hours. The process involved applying various SQL filters to retrieve and examine relevant data, allowing for more efficient identification of potential security incidents.
 
 For a detailed walkthrough of the project, including the SQL queries used and the results obtained, please refer to the PDF linked below:
