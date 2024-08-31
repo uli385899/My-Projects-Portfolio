@@ -86,3 +86,13 @@ For a detailed walkthrough of the project, including the SQL queries used and th
 [View SQL Filters Project PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Apply%20filters%20to%20SQL%20queries%202.pdf)
 
 </details>
+
+<details>
+<summary>Risk Register</summary>
+
+## Risk Register
+A risk register is an essential tool for identifying, assessing, and managing potential risks that could adversely affect an organization or project. It acts as a centralized repository, providing a structured approach to risk management by documenting all identified risks and their associated mitigation strategies.
+
+For this project, I developed a risk register for a fictional bank situated in a coastal region, focusing on compliance and regulatory requirements set by the Federal Reserve. The assessment highlights key risks related to the bank’s operations and outlines measures to ensure adherence to these critical regulatory standards.
+
+</details>
