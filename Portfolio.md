@@ -21,7 +21,7 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 
 # Personal Projects
 
-## Kali VM SIEM 
+## Security Information and Event Management (SIEM) 
 
 It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
 
@@ -54,9 +54,18 @@ As you can see, the VPN server has successfully been bridged to my gaming consol
 
 ## Incident Handler's Journal
 
-Throughout my cybersecurity course, I used the incident handler's journal, a vital tool for tracking and managing security incidents. This journal provides a detailed record of each incident, including the date, description, tools used, timelines, and additional notes. It serves as a reference for past experiences, helping to improve future responses and ensuring comprehensive documentation for compliance and analysis.
+Throughout my cybersecurity course, I utilized the incident handler's journal, a vital tool for tracking and managing security incidents. This journal provides a detailed record of each incident, including the date, description, tools used, timelines, and additional notes. It serves as a reference for past experiences, helping to improve future responses and ensuring comprehensive documentation for compliance and analysis.
 
 ---
 
+Journal Entry: Hospital Ransomware Attack
 
+![entry1](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-08-30%20211511.png)
 
+---
+
+## Applying filters to SQL queries 
+
+I was assigned to analyze and report on suspicious activities flagged by the organization's system, which occurred outside of business hours.
+
+[sqlPDFProject](https://github.com/uli385899/uli385899/blob/main/.assets/Apply%20filters%20to%20SQL%20queries.pdf)
