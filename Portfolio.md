@@ -19,13 +19,18 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 [![Nmap](https://img.shields.io/badge/Nmap-ffffff?style=for-the-badge&logoColor=grey)](https://academy.hackthebox.com/achievement/badge/5f80b67c-c13b-11ee-891c-bea50ffe6cb4)
 [![Intel](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
 
-# Projects
+# Personal Projects
 
 ## Kali VM SIEM 
+
 It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
+
+---
 
 ![Kali VM SIEM 1](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png)
 ![Kali VM SIEM 2](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154944.png)
+
+---
 
 ## Internet Connection Sharing (ICS) for VPN utilization on unsupported devices
 
@@ -44,3 +49,14 @@ Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastr
 As you can see, the VPN server has successfully been bridged to my gaming console as I'm connected to a server in the European region.
 
 ---
+
+# Google Cybersecurity Course Projects
+
+## Incident Handler's Journal
+
+Throughout my cybersecurity course, I used the incident handler's journal, a vital tool for tracking and managing security incidents. This journal provides a detailed record of each incident, including the date, description, tools used, timelines, and additional notes. It serves as a reference for past experiences, helping to improve future responses and ensuring comprehensive documentation for compliance and analysis.
+
+---
+
+
+
