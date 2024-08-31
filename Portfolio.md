@@ -22,81 +22,95 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 # Personal Projects
 
 <details>
-<summary>Security Information and Event Management (SIEM)</summary>
-
-## Security Information and Event Management (SIEM)
-
-It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
-
-<hr>
-
-<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png">
-<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154944.png">
-
-<hr>
+  <summary>Security Information and Event Management (SIEM)</summary>
+  
+  ## Security Information and Event Management (SIEM)
+  
+  It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
+  
+  <hr>
+  
+  <img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png">
+  <img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154944.png">
+  
+  <hr>
 </details>
 
 <details>
-<summary>Internet Connection Sharing (ICS) for VPN utilization on unsupported devices</summary>
-
-## Internet Connection Sharing (ICS) for VPN utilization on unsupported devices
-
-As a competitive *Tom Clancy's Rainbow Six Siege* player on console, I would experience recurring DDoS attacks. Opposing players would use third-party websites to resolve gamertags to IP addresses, such as Octosniffer and XResolver, using that information to *boot* players offline using DDoS panels.
-
-<hr>
-
-<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20173445.png">
-
-Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastructure problem. To safeguard myself, I forwarded a VPN service to my gaming console via Ethernet, utilizing Windows built-in Internet Connection Sharing (ICS) feature on my desktop.
-
-<hr>
-
-<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Untitled1.png">
-
-As you can see, the VPN server has successfully been bridged to my gaming console as I'm connected to a server in the European region.
-
-<hr>
+  <summary>Internet Connection Sharing (ICS) for VPN utilization on unsupported devices</summary>
+  
+  ## Internet Connection Sharing (ICS) for VPN utilization on unsupported devices
+  
+  As a competitive *Tom Clancy's Rainbow Six Siege* player on console, I would experience recurring DDoS attacks. Opposing players would use third-party websites to resolve gamertags to IP addresses, such as Octosniffer and XResolver, using that information to *boot* players offline using DDoS panels.
+  
+  <hr>
+  
+  <img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20173445.png">
+  
+  Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastructure problem. To safeguard myself, I forwarded a VPN service to my gaming console via Ethernet, utilizing Windows built-in Internet Connection Sharing (ICS) feature on my desktop.
+  
+  <hr>
+  
+  <img src="https://github.com/uli385899/uli385899/blob/main/.assets/Untitled1.png">
+  
+  As you can see, the VPN server has successfully been bridged to my gaming console as I'm connected to a server in the European region.
+  
+  <hr>
 </details>
 
-# Coursera Google Cybersecurity  
-
-<details>
-<summary>Incident Handler's Journal</summary>
-
-## Incident Handler's Journal
-Throughout my cybersecurity course, I utilized the incident handler's journal, a vital tool for tracking and managing security incidents. This journal provides a detailed record of each incident, including the date, description, tools used, timelines, and additional notes. It serves as a reference for past experiences, helping to improve future responses and ensuring comprehensive documentation for compliance and analysis.
-
-<hr>
-
-Journal Entry: Hospital Ransomware Attack
-
-<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-08-30%20211511.png">
-
-<hr>
-</details>
-
-<details>
-<summary>Applying filters to SQL queries</summary>
-
-## Applying filters to SQL queries
-In this project, I was tasked with analyzing and reporting on suspicious activities detected by the organization's monitoring system that occurred outside of regular business hours. The process involved applying various SQL filters to retrieve and examine relevant data, allowing for more efficient identification of potential security incidents.
-
-For a detailed walkthrough of the project, including the SQL queries used and the results obtained, please refer to the PDF linked below:
-
-[View SQL Filters Project PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Apply%20filters%20to%20SQL%20queries%202.pdf)
-
+  # Coursera Google Cybersecurity  
+  
+  <details>
+  <summary>Incident Handler's Journal</summary>
+  
+  ## Incident Handler's Journal
+  Throughout my cybersecurity course, I utilized the incident handler's journal, a vital tool for tracking and managing security incidents. This journal provides a detailed record of each incident, including the date, description, tools used, timelines, and additional notes. It serves as a reference for past experiences, helping to improve future responses and ensuring comprehensive documentation for compliance and analysis.
+  
+  <hr>
+  
+  Journal Entry: Hospital Ransomware Attack
+  
+  <img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-08-30%20211511.png">
+  
+  <hr>
 </details>
 
 <details>
-<summary>Risk Register</summary>
+  <summary>Applying filters to SQL queries</summary>
+  
+  ## Applying filters to SQL queries
+  In this project, I was tasked with analyzing and reporting on suspicious activities detected by the organization's monitoring system that occurred outside of regular business hours. The process involved applying various SQL filters to retrieve and examine relevant data, allowing for more efficient identification of potential security incidents.
+  
+  For a detailed walkthrough of the project, including the SQL queries used and the results obtained, please refer to the PDF linked below:
+  
+  [View SQL Filters Project PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Apply%20filters%20to%20SQL%20queries%202.pdf)
 
-## Risk Register
-A risk register is an essential tool for identifying, assessing, and managing potential risks that could adversely affect an organization or project. It acts as a centralized repository, providing a structured approach to risk management by documenting all identified risks.
+</details>
 
-For this project, I developed a risk register for a fictional bank situated in a coastal region, focusing on compliance and regulatory requirements set by the Federal Reserve. The assessment highlights key risks related to the bank’s operations and ensures adherence to these critical regulatory standards.
+<details>
+  <summary>Risk Register</summary>
+  
+  ## Risk Register
+  A risk register is an essential tool for identifying, assessing, and managing potential risks that could adversely affect an organization or project. It acts as a centralized repository, providing a structured     approach to risk management by documenting all identified risks.
+  
+  For this project, I developed a risk register for a fictional bank situated in a coastal region, focusing on compliance and regulatory requirements set by the Federal Reserve. The assessment highlights key risks   related to the bank’s operations and ensures adherence to these critical regulatory standards.
+  
+  For the risk register document, please refer to the PDF file linked below:
 
-For the risk register document, please refer to the PDF file linked below:
+  [View Risk Register PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Risk%20register.pdf)
 
-[View Risk Register PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Risk%20register.pdf)
+</details>
+
+<details>
+<summary>Creating an algorithm in Python for updating files</summary>
+
+## Creating an algorithm in Python for updating files
+Automation is the process of taking a complex task that can be done in seconds by using an algorithm. This allows us to increase effeciency and productiviy, which are staples to a successful business.
+
+In this project, I was assigned to create an algorithm that takes two inputs: a file containing allowed IP addresses and a list of restricted IP addresses. It reads the allowed IPs from the file, converts them into a list, and iterates through this list to remove any IPs that are also on the restricted list. Finally, it updates the original file with the revised list of allowed IP addresses. The main purpose of this algorithm is to efficiently manage and update IP address lists within a network by automatically removing restricted IPs. This helps maintain the security and integrity of the network by ensuring that only allowed IPs are present in the updated file, streamlining the process of IP management.
+
+Click here to view the supporting material and detailed reading on the development of the IP Address Update Algorithm, including step-by-step explanations of the process and underlying concepts:
+
+[Python Algorithm for updating files PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
 </details>
