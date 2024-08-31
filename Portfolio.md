@@ -25,27 +25,37 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 <summary>Security Information and Event Management (SIEM)</summary>
 
 ## Security Information and Event Management (SIEM)
+
 It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
 
-![Kali VM SIEM 1](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png)
-![Kali VM SIEM 2](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154944.png)
+<hr>
 
+<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png">
+<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154944.png">
+
+<hr>
 </details>
 
 <details>
 <summary>Internet Connection Sharing (ICS) for VPN utilization on unsupported devices</summary>
 
 ## Internet Connection Sharing (ICS) for VPN utilization on unsupported devices
+
 As a competitive *Tom Clancy's Rainbow Six Siege* player on console, I would experience recurring DDoS attacks. Opposing players would use third-party websites to resolve gamertags to IP addresses, such as Octosniffer and XResolver, using that information to *boot* players offline using DDoS panels.
 
-![ICS](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20173445.png)
+<hr>
+
+<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20173445.png">
 
 Due to Xbox's lack of first-party VPN support, I encountered an ongoing infrastructure problem. To safeguard myself, I forwarded a VPN service to my gaming console via Ethernet, utilizing Windows built-in Internet Connection Sharing (ICS) feature on my desktop.
 
-![vpn on the game server](https://github.com/uli385899/uli385899/blob/main/.assets/Untitled1.png)
+<hr>
+
+<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Untitled1.png">
 
 As you can see, the VPN server has successfully been bridged to my gaming console as I'm connected to a server in the European region.
 
+<hr>
 </details>
 
 # Google Cybersecurity Course Projects
@@ -56,10 +66,13 @@ As you can see, the VPN server has successfully been bridged to my gaming consol
 ## Incident Handler's Journal
 Throughout my cybersecurity course, I utilized the incident handler's journal, a vital tool for tracking and managing security incidents. This journal provides a detailed record of each incident, including the date, description, tools used, timelines, and additional notes. It serves as a reference for past experiences, helping to improve future responses and ensuring comprehensive documentation for compliance and analysis.
 
+<hr>
+
 Journal Entry: Hospital Ransomware Attack
 
-![entry1](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-08-30%20211511.png)
+<img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-08-30%20211511.png">
 
+<hr>
 </details>
 
 <details>
