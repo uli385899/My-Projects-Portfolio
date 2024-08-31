@@ -24,6 +24,7 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 <details>
 <summary>Security Information and Event Management (SIEM)</summary>
 
+## Security Information and Event Management (SIEM)
 It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
 
 ![Kali VM SIEM 1](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png)
@@ -34,6 +35,7 @@ It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. H
 <details>
 <summary>Internet Connection Sharing (ICS) for VPN utilization on unsupported devices</summary>
 
+## Internet Connection Sharing (ICS) for VPN utilization on unsupported devices
 As a competitive *Tom Clancy's Rainbow Six Siege* player on console, I would experience recurring DDoS attacks. Opposing players would use third-party websites to resolve gamertags to IP addresses, such as Octosniffer and XResolver, using that information to *boot* players offline using DDoS panels.
 
 ![ICS](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20173445.png)
