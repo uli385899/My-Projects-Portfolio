@@ -102,15 +102,15 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 </details>
 
 <details>
-<summary>Creating an algorithm in Python for updating files</summary>
-
-## Creating an algorithm in Python for updating files
-Automation is the process of taking a complex task that can be done in seconds by using an algorithm. This allows us to increase effeciency and productiviy, which are staples to a successful business.
-
-In this project, I was assigned to create an algorithm that takes two inputs: a file containing allowed IP addresses and a list of restricted IP addresses. It reads the allowed IPs from the file, converts them into a list, and iterates through this list to remove any IPs that are also on the restricted list. Finally, it updates the original file with the revised list of allowed IP addresses. The main purpose of this algorithm is to efficiently manage and update IP address lists within a network by automatically removing restricted IPs. This helps maintain the security and integrity of the network by ensuring that only allowed IPs are present in the updated file, streamlining the process of IP management.
-
-Click here to view the supporting material and detailed reading on the development of the IP Address Update Algorithm, including step-by-step explanations of the process and underlying concepts:
-
-[Python Algorithm for updating files PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Algorithm%20for%20file%20updates%20in%20Python.pdf)
+  <summary>Creating an algorithm in Python for updating files</summary>
+  
+  ## Creating an algorithm in Python for updating files
+  Automation is the process of taking a complex task that can be done in seconds by using an algorithm. This allows us to increase effeciency and productiviy, which are staples to a successful business.
+  
+  In this project, I was assigned to create an algorithm that takes two inputs: a file containing allowed IP addresses and a list of restricted IP addresses. It reads the allowed IPs from the file, converts them into a list, and iterates through this list to remove any IPs that are also on the restricted list. Finally, it updates the original file with the revised list of allowed IP addresses. The main purpose of this algorithm is to efficiently manage and update IP address lists within a network by automatically removing restricted IPs. This helps maintain the security and integrity of the network by ensuring that only allowed IPs are present in the updated file, streamlining the process of IP management.
+  
+  Click here to view the supporting material and detailed reading on the development of the IP Address Update Algorithm, including step-by-step explanations of the process and underlying concepts:
+  
+  [Python Algorithm for updating files PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
 </details>
