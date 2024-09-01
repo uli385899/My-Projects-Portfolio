@@ -117,6 +117,8 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 
 <details>
   <summary>Alert Ticket</summary>
+
+  ## Alert Ticket
   In this exercise, I was handed an alert ticket to solve a security incident involving a medium-severity phishing attempt. The alert ticket, which serves as a documented report of detected security threats, detailed a suspicious email received by the HR department. The email contained an attachment named bfsvc.exe, identified as malicious software capable of granting backdoor access to the system. Due to the associated risks, the incident was escalated for further action.
 
   Please refer to the pdf file below for a detailed look on the alert ticket:
