@@ -114,3 +114,11 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
   [Python Algorithm for updating files PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
 </details>
+
+<details>
+  <summary>Alert Ticket</summary>
+  In this exercise, I was handed an alert ticket to solve a security incident involving a medium-severity phishing attempt. The alert ticket, which serves as a documented report of detected security threats, detailed a suspicious email received by the HR department. The email contained an attachment named bfsvc.exe, identified as malicious software capable of granting backdoor access to the system. Due to the associated risks, the incident was escalated for further action.
+
+  Please refer to the pdf file below for a detailed look on the alert ticket:
+  [Alert Ticket PDF](https://github.com/uli385899/uli385899/blob/main/.assets/Alert%20ticket.pdf)
+</details>
