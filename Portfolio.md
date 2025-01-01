@@ -1,7 +1,7 @@
 # Greetings, I'm Uli 👽
 Pronouns: He/Him
 
-I am a recent IT Support bootcamp graduate that is trying to transition into the IT and cybersecurity field. I grew a profound interest in technology and digital security ever since I've been a victim of personal cyber attacks.
+I am a recent IT Support bootcamp graduate that is ready to transition into the IT and cybersecurity field. I grew a profound interest in technology and digital security ever since I've been a victim of personal cyber attacks.
 
 # Objective
 My self-learning path in computer science has led me to develop a passion to become a penetration tester, but for now, I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any IT entry level role.
