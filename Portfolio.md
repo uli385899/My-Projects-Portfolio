@@ -7,7 +7,7 @@ I am a recent IT Support bootcamp graduate that is trying to transition into the
 My self-learning path in computer science has led me to develop a passion to become a penetration tester, but for now, I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any IT entry level role.
 
 # Personal Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulises-aguilar-46794825a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulises-aguilar-maturin-46794825a)
 [![Indeed](https://img.shields.io/badge/Indeed-808080?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/ulisesa-lfm3n5l)
 
 # What I'm currently working on
