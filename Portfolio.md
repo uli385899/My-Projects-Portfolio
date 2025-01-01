@@ -1,23 +1,66 @@
-# Greetings earthling, I'm Uli 👽
+# Greetings, I'm Uli 👽
 Pronouns: He/Him
 
-I am a service technician that is trying to transition into the cybersecurity field. I grew a profound interest in technology and digital security since I've been a victim of cyber attacks.
+I am a recent IT Support bootcamp graduate that is trying to transition into the IT and cybersecurity field. I grew a profound interest in technology and digital security ever since I've been a victim of personal cyber attacks.
 
 # Objective
-My self-learning path in computer science has led me to develop a passion to become a penetration tester, but for now, I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My self-learning path in computer science has led me to develop a passion to become a penetration tester, but for now, I am aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any IT entry level role.
 
 # Personal Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulises-aguilar-46794825a/)
 [![Indeed](https://img.shields.io/badge/Indeed-808080?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/ulisesa-lfm3n5l)
 
 # What I'm currently working on
-I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB CPTS) path on Hack The Box Academy. Learning various attack vectors and bash tools help me create a hacker's mindset which improves my ability to defend against attacks.
+I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB CPTS) path on Hack The Box Academy. Learning various attack vectors and bash tools to help me create a hacker's mindset that improves my ability to identify and defend against attacks.
 
 [![Hack The Box Progress](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-14%20155631.png)
 
 ## HTB Earned Badges
 [![Nmap](https://img.shields.io/badge/Nmap-ffffff?style=for-the-badge&logoColor=grey)](https://academy.hackthebox.com/achievement/badge/5f80b67c-c13b-11ee-891c-bea50ffe6cb4)
 [![Intel](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
+
+# Portfolio
+
+<details>
+  <summary>View all of my projects</summary>
+  
+# Hack The Box Labs
+
+<details>
+  <summary>Nmap Enumeration Labs</summary>
+  
+  ## Nmap Enumeration Labs
+  
+  These exercises simulate testing a company's IDS and IPS defenses, with scenarios separated by difficulty level based on how effectively the systems detect our intrusions.
+  
+  **Difficulty Levels:**
+
+  <details>
+    <summary>&emsp;Easy</summary>
+    <ul>
+      <li>Lab 1: Scanning basic ports</li>
+      <li>Lab 2: Identifying services</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>&emsp;Medium</summary>
+    <ul>
+      <li>Lab 1: Advanced version detection</li>
+      <li>Lab 2: Aggressive scanning</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>&emsp;Hard</summary>
+    <ul>
+      <li>Lab 1: Stealth scanning techniques</li>
+      <li>Lab 2: Bypassing firewalls</li>
+    </ul>
+  </details>
+
+</details>
+
 
 # Personal Projects
 
@@ -58,7 +101,7 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
   <hr>
 </details>
 
-  # Coursera Google Cybersecurity  
+  # Google Cybersecurity Labs  
   
   <details>
   <summary>Incident Handler's Journal</summary>
