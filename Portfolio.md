@@ -18,30 +18,44 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 ## HTB Earned Badges
 [![Nmap](https://img.shields.io/badge/Nmap-ffffff?style=for-the-badge&logoColor=grey)](https://academy.hackthebox.com/achievement/badge/5f80b67c-c13b-11ee-891c-bea50ffe6cb4)
 [![Intel](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
-
-# Portfolio
-
-<details>
-  <summary>View all of my projects</summary>
   
 # Hack The Box Labs
 
 <details>
+  
   <summary>Nmap Enumeration Labs</summary>
   
   ## Nmap Enumeration Labs
   
-  These exercises simulate testing a company's IDS and IPS defenses, with scenarios separated by difficulty level based on how effectively the systems detect our intrusions.
+  These exercises simulate testing a company's IDS and IPS defenses, with scenarios separated by difficulty level based on how effectively the systems detect and block our intrusions.
   
-  **Difficulty Levels:**
+ **Difficulty Levels:**
 
-  <details>
-    <summary>&emsp;Easy</summary>
-    <ul>
-      <li>Lab 1: Scanning basic ports</li>
-      <li>Lab 2: Identifying services</li>
-    </ul>
-  </details>
+<details>
+  
+  <summary>&emsp;Easy</summary>
+  <br> <!--this is an empty line-->
+   In this lab, I was tasked to identify the operating system of the provided machine. 
+  <hr>
+  
+  <img src=".assets/nmap-easy-2.png">
+  <hr>
+
+  <img src=".assets/nmap-easy-3.png">
+
+  I first have to establish a VPN connection to the sandboxed environment that is provided by HTB by using their OpenVPN file.
+  <hr>
+
+  <img src=".assets/nmap-easy-5.png">
+
+  I verified that I am successfully connected by pinging the provided system's IP address.
+  <hr>
+
+  <img src=".assets/nmap-easy-6.png">
+
+ We will reference this .php page from the targeted system to track the number of alerts I have triggered. The starting count will be 53, due to refreshing the webpage twice and pinging the host at the beginning of this lab.
+ <hr>
+</details>
 
   <details>
     <summary>&emsp;Medium</summary>
