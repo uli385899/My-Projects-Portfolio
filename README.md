@@ -15,11 +15,16 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 
 [![Hack The Box Progress](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/path/preview/penetration-tester)
 
-## HTB Earned Badges
+# Hack The Box
+
+<details>
+<summary>Earned Badges</summary>
+ &nbsp;
+  
 [![Nmap](https://img.shields.io/badge/Nmap-ffffff?style=for-the-badge&logoColor=grey)](https://academy.hackthebox.com/achievement/badge/5f80b67c-c13b-11ee-891c-bea50ffe6cb4)
 [![Intel](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
-  
-# Hack The Box Labs
+
+</details>
 
 <details>
   <summary>Nmap Enumeration Labs</summary>
