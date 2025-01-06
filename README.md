@@ -27,7 +27,7 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 </details>
 
 <details>
-  <summary>Nmap Enumeration Labs</summary>
+  <summary>Nmap IDS/IPS Evasion Labs</summary>
   &nbsp;
   
   These exercises simulate testing a company's IDS and IPS defenses, with scenarios separated by difficulty level based on how effectively the systems detect and block our intrusions.
