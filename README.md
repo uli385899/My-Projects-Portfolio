@@ -22,91 +22,14 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 # Hack The Box Labs
 
 <details>
-  
   <summary>Nmap Enumeration Labs</summary>
-  
-   ## Nmap Enumeration Labs
-  
+
+  ## Nmap Enumeration Labs
+
   These exercises simulate testing a company's IDS and IPS defenses, with scenarios separated by difficulty level based on how effectively the systems detect and block our intrusions.
-  
- **Difficulty Levels:**
-
-<details>
-  
-  <summary>&emsp;Easy</summary>
-  <br> <!--this is an empty line-->
-  <b>In this lab, I was tasked to identify the operating system of the provided machine.</b>
-
-  
-<hr>
-
-  
-  <img src=".assets/Screenshot 2024-12-31 200836.png">
-
-  First, I have to establish a VPN connection to the sandboxed environment that is provided by HTB, so I am going to use their provided OpenVPN file and connect via terminal.
-  
-  
-<hr>
-
-  
-  <img src=".assets/nmap-easy-5.png">
-
-  I verified that I am successfully connected by pinging the provided system's IP address.
-  
-  
-<hr>
-
-  
-  <img src=".assets/nmap-easy-6.png">
-
-  We will reference this .php page from the targeted system to track the number of alerts I have triggered. The starting count will be 53, due to refreshing the webpage twice and pinging the host at the beginning of this lab.
-  
-  
-<hr>
-
-  
-  <img src=".assets/nmap-easy-7.png">
-
-  Then, the nmap enumeration begins. The following are objects and options used in this scan:
-
-- **-Pn**: Disables pinging of hosts.
-- **-n**: Disables DNS resolution.
-- **--disable-arp-ping**: Disables checking if the target's IP address corresponds with a MAC address.
-- **-F**: Scans for the top 100 most common ports.
-- **-sV**: Performs a service scan to identify OS information.
-- **-g**: Sets the source port (In this case, 53 as it is commonly used for DNS, often trusted by internal servers to avoid detection).
-- **--max-retries**: Specifies the maximum number of connection retries for each port.
-- **--initial-rtt-timeout**: Sets the initial round-trip time (in milliseconds) for packets sent to the host.
-- **--max-rtt-timeout**: Defines the maximum round-trip time for packets sent to the host.
-- **-T**: Adjusts the aggressiveness of the scan (3 being normal or default).
-- **-oN**: Saves the scan results in `.nmap` format for readability and analysis.
-- **--packet-trace**: Similar to a packet sniffer, this option shows the results of sent and received network packets.
-- **-v**: Enables verbosity, displaying more information as the scan progresses.
-  
-  
-<hr>
- 
-</details>
-
-  <details>
-    <summary>&emsp;Medium</summary>
-    <ul>
-      <li>Lab 1: Advanced version detection</li>
-      <li>Lab 2: Aggressive scanning</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary>&emsp;Hard</summary>
-    <ul>
-      <li>Lab 1: Stealth scanning techniques</li>
-      <li>Lab 2: Bypassing firewalls</li>
-    </ul>
-  </details>
 
 </details>
-
-
+  
 # Personal Projects
 
 <details>
