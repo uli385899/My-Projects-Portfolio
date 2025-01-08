@@ -53,7 +53,7 @@ In this lab, the same client wants to know if I could find the target's DNS serv
 
   <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-5.png">
   
- In the initial scan, I didn’t specify the type of scan, so Nmap defaulted to a TCP SYN scan (equivalent to using the -sS option). This likely caused the target’s defenses to filter out the packets, as DNS (port 53) typically operates over TCP only in specific scenarios, such as zone transfers or handling large responses.
+ In the initial scan, I didn’t specify the type of scan, so Nmap defaulted to a TCP SYN scan (equivalent to using the -sS option). This likely caused the target’s defenses to filter out the packets, as DNS (port 53) typically operates over TCP only in specific scenarios-- such as zone transfers or handling large responses.
 
 To address this, I made a single modification to the initial scan by adding the -sU option to perform a UDP scan. The results, along with the packet trace, showed that the target opened up and responded to the request, in contrast to filtering or ignoring it.
 
