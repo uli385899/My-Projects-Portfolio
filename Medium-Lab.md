@@ -70,11 +70,11 @@ To address this, I made a single modification to the initial scan by adding the 
   
   I again modified the scan with its last addition with using a service scan (-sV) on top of UDP.
 
-  ## Results
+  ## Service Scan Results
 
   <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-3.png">
 
-  The service version running on the DNS server is the resulting banner, that being a HTB flag.
+  The service version running on the DNS server is the banner, that being a HTB flag.
 
   <hr>
   
@@ -82,18 +82,29 @@ To address this, I made a single modification to the initial scan by adding the 
 
 <details>
   <summary>Total Alerts Recorded</summary>
+
+  ## Total Alerts
+
+  <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-2.png">
+  
+  Starting from the pings to verify our host was responding to the three different nmap scans, I managed to be under 75 alerts before being blocked from the defenses. I'd say it was a pretty successful testing. 
+  
 </details>
+
 <details>
   <summary>Lab Conclusion</summary>
 
   ## Lab Conclusion
 
-  <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-easy-8.png">
-  This lab provided an excellent opportunity to practice Nmap techniques while maintaining a low detection profile in an environment with active firewall, IDS, and IPS defenses. By strategically selecting scan options and prioritizing       stealth, I was able to successfully identify the operating system of the target machine while keeping intrusion alerts well below the maximum threshold.
-  <p>&nbsp;</p>
-  The results highlight the importance of thoughtful reconnaissance planning, such as limiting unnecessary scans and focusing only on relevant ports and services. The adjustments I made to reduce alerts demonstrate the value of iterative    learning and adaptive strategies in penetration testing.
-  <p>&nbsp;</p>
-  Overall, this exercise reinforced the critical balance between achieving technical objectives and minimizing detection, an essential skill for ethical hacking and cybersecurity professionals.
+  <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-1.png">
+  
+ This lab emphasized the importance of the passive reconnaissance phase. Conducting thorough research on the target before initiating active scans can provide a significant advantage. A well-thought-out plan is far more efficient than attempting to devise one on the fly during an ongoing process.
+
+Throughout the lab, I had to rely heavily on my foundational knowledge of network protocols and understand how defensive systems respond to improperly configured scans. While the process itself was straightforward, overlooking key information or misconfiguring scan parameters could easily lead to hours of second-guessing and troubleshooting.
+
+Ultimately, this experience reinforced an essential truth: it's not just about what you know, but about recognizing and addressing what you don't yet know.
+
+<hr>
   
 </details>
 
