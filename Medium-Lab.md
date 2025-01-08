@@ -53,9 +53,9 @@ In this lab, the same client wants to know if I could find the target's DNS serv
 
   <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-5.png">
   
- In the initial scan, I didn’t specify the type of scan, so Nmap defaulted to a TCP SYN scan (equivalent to using the -sS option). This likely caused the target’s defenses to filter out the packets, as DNS (port 53) typically operates over TCP only in specific scenarios-- such as zone transfers or handling large responses.
+ In the initial scan, I didn’t specify the type of scan, so Nmap defaulted to a **TCP SYN** scan (equivalent to using the -sS option). This likely caused the target’s defenses to filter out the packets, as DNS (port 53) typically operates over TCP only in specific scenarios-- such as zone transfers or handling large responses.
 
-To address this, I made a single modification to the initial scan by adding the -sU option to perform a UDP scan. The results, along with the packet trace, showed that the target opened up and responded to the request, in contrast to filtering or ignoring it.
+To address this, I made a single modification to the initial scan by adding the **-sU** option to perform a UDP scan. The results, along with the packet trace, showed that the target opened up and responded to the request, in contrast to filtering or ignoring it.
 
   <hr>
 
@@ -87,7 +87,7 @@ To address this, I made a single modification to the initial scan by adding the 
 
   <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-2.png">
   
-  Starting from the pings to verify our host was responding to the three different nmap scans, I managed to be under 75 alerts before being blocked from the defenses. I'd say it was a pretty successful testing. 
+  Starting from the pings to verify our host was responding to the three different nmap scans, I managed to be under 75 alerts before being blocked from the defenses. I'd say it was a pretty successful testing!
   
 </details>
 
@@ -98,11 +98,11 @@ To address this, I made a single modification to the initial scan by adding the 
 
   <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-1.png">
   
- This lab emphasized the importance of the passive reconnaissance phase. Conducting thorough research on the target before initiating active scans can provide a significant advantage. A well-thought-out plan is far more efficient than attempting to devise one on the fly during an ongoing process.
+  This lab emphasized the importance of the passive reconnaissance phase, as failing to get it right initially cost me hours of troubleshooting-- even caused the target to block me due to the excessive number of scans performed. Conducting thorough research on the target before initiating active scans can provide a significant advantage. A well-thought-out plan is far more efficient than attempting to improvise during an ongoing process.
 
-Throughout the lab, I had to rely heavily on my foundational knowledge of network protocols and understand how defensive systems respond to improperly configured scans. While the process itself was straightforward, overlooking key information or misconfiguring scan parameters could easily lead to hours of second-guessing and troubleshooting.
+Throughout the lab, I had to draw heavily on my foundational knowledge of network protocols and learn how defensive systems respond to improperly configured scans. While the process itself was straightforward, overlooking key details or misconfiguring scan parameters can quickly lead to frustration, second-guessing, and unnecessary delays.
 
-Ultimately, this experience reinforced an essential truth: it's not just about what you know, but about recognizing and addressing what you don't yet know.
+Ultimately, this experience reinforced a critical lesson: it’s not just about what you know, but about recognizing and addressing what you don’t yet know.
 
 <hr>
   
