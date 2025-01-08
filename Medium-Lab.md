@@ -62,8 +62,30 @@ To address this, I made a single modification to the initial scan by adding the 
 </details>
 
 <details>
-  <summary>Lab Conclusion</summary>
+  <summary>Service Scan</summary>
+
+  ## Service Scan
+
+  <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-4.png">
   
+  I again modified the scan with its last addition with using a service scan (-sV) on top of UDP.
+
+  ## Results
+
+  <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-medium-3.png">
+
+  The service version running on the DNS server is the resulting banner, that being a HTB flag.
+
+  <hr>
+  
+</details>
+
+<details>
+  <summary>Total Alerts Recorded</summary>
+</details>
+<details>
+  <summary>Lab Conclusion</summary>
+
   ## Lab Conclusion
 
   <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/nmap-easy-8.png">
