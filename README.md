@@ -22,6 +22,7 @@ To set up the lab, the Elastic Defend agent was added as an integration on the E
 <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-5.1.png">
   
 To verify that telemetry data was being successfully forwarded from my local machine to the Elastic Cloud server, an nmap scan was executed. This generated system events and logs related to the scan. Verification was performed by navigating to the Discovery tab in Elastic Defend, conducting a quick KQL search query for "nmap".
+
   <hr>
 </details>
 
@@ -109,5 +110,40 @@ Finally, we configure the **action** to be taken when the rule's conditions are 
 
 <hr>
 </details>
+
+<details>
+  <summary>Testing our set rule</summary>
+
+  ## Performing an nmap scan to trigger an alert
+
+  <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-15.png">
+
+  We now will proceed to perform a basic nmap scan on the localhost using the command _**sudo nmap -A -sV localhost**_. This action will generate logs that match the conditions defined in the "**Nmap Scan Detection on localhost**" rule, allowing us to test if the SIEM successfully detects the scan and triggers an alert.
+
+  ## Receiving alert via SIEM
+
+  <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-17.png">
+
+  As shown here, the alert was successfully triggered at the correct **timestamp**, matching the conditions set in the rule. Additionally, key information such as _**host.name**_, _**process.name**_, _**process.args**_, and _**user.name**_ is provided, giving analysts a clear overview of the event. This information is vital for conducting further investigations and ensuring that the activity is understood and addressed appropriately.
+
+  ## Receiving alert via email
+
+  <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-16.png">
+
+  Additionally, the alert notification was successfully received via email, as configured in the **action** step of the rule. The email promptly informs the recipient that an nmap scan was detected on the localhost, allowing for immediate awareness and action.
+
+  <hr>
+</details>
+
+## Conclusion
+
+From completing this lab, I gained valuable hands-on experience in the following areas:  
+- **Data Aggregation and Centralization:** Understanding how to collect, organize, and centralize logs from multiple sources into a SIEM.  
+- **Visualization Creation:** Developing intuitive dashboards to track and analyze log data effectively.  
+- **Log Analysis:** Interpreting patterns and trends in log data to identify anomalies or spikes in activity.  
+- **Configuration and Customization:** Configuring specific parameters, such as time intervals and data filters, to meet targeted analytical needs.  
+- **Alert Rule Creation:** Designing and implementing custom rules for generating alerts based on specific log patterns or anomalies, enhancing proactive threat detection.
+
+This lab is just the beginning of my journey in leveraging SIEMs to enhance security within my virtualized network. By applying these skills, I plan to build more advanced monitoring solutions, refine detection mechanisms, and continually improve the security posture of my virtualized environments.
 
 [Go back to Main repository](https://github.com/uli385899/My-Projects-Portfolio)
