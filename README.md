@@ -38,7 +38,7 @@ Creating visualizations for ingested data is essential for monitoring trends, id
   <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-7.png">
 
  
-This visualization, titled "Logs Inflow," represents the number of logs recorded every 30 minutes on my local machine. The horizontal axis displays the timeline (@timestamp) in 30-minute intervals, while the vertical axis shows the count of records during each interval. The area chart provides an intuitive view of log volume trends, enabling quick identification of spikes in activity.
+This visualization, titled "**Logs Inflow**", represents the number of logs recorded every 30 minutes on my local machine. The horizontal axis displays the timeline (@timestamp) in 30-minute intervals, while the vertical axis shows the count of records during each interval. The area chart provides an intuitive view of log volume trends, enabling quick identification of spikes in activity.
 
 I used the KQL (Kusto Query Language) tool to search for _**process.args : "nmap"**_, filtering the data to reduce the number of records from thousands to just a few dozen. This approach makes the results more focused and actionable by narrowing down to relevant insights, which can later be used for different queries.
 
