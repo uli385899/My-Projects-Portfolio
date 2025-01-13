@@ -4,7 +4,16 @@ This project involves setting up a home SIEM (Security Information and Event Man
 
 <details>
   <summary>Getting Started</summary>
-  
+
+  ## Setting up environment
+
+  <table>
+  <tr>
+    <td><img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-1.png" alt="SIEM Image 1" width="1000"/></td>
+    <td><img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-6.png" alt="SIEM Image 2" width="1000"/></td>
+  </tr>
+</table>
+
 </details>
 
 [Go back to Main repository](https://github.com/uli385899/My-Projects-Portfolio)
