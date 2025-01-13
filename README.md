@@ -100,7 +100,7 @@ Finally, tags such as **nmap**, **reconnaissance**, and **localhost** are added 
 <hr>
 <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-13.png">
 
-In this step, we configured the schedule for the rule to ensure timely detection of nmap scans. The rule is set to run every 1 minute, enabling near real-time monitoring for any matching events. Additionally, the look-back time of 1 minute is configured to ensure no events are missed during execution intervals. This scheduling ensures the rule captures and alerts nmap scans promptly, providing quick notifications for immediate action.
+In this step, we configured the schedule for the rule to ensure timely detection of nmap scans. The rule is set to run every **1 minute**, enabling near real-time monitoring for any matching events. Additionally, the look-back time of **1 minute** is configured to ensure no events are missed during execution intervals. This scheduling ensures the rule captures and alerts nmap scans promptly, providing quick notifications for immediate action.
 
 <hr>
 <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-14.png">
