@@ -112,7 +112,7 @@ Finally, we configure the **action** to be taken when the rule's conditions are 
 </details>
 
 <details>
-  <summary>Testing our set rule</summary>
+  <summary>Testing set rule</summary>
 
   ## Performing an nmap scan to trigger an alert
 
