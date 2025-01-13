@@ -22,13 +22,14 @@ I'm currently enrolled in the SOC Analyst Job Role Patch on Hack The Box Academy
  &nbsp;
   
 [![Nmap](https://img.shields.io/badge/Nmap-ffffff?style=for-the-badge&logoColor=grey)](https://academy.hackthebox.com/achievement/badge/5f80b67c-c13b-11ee-891c-bea50ffe6cb4)
-[![Intel](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
+[![Recon](https://img.shields.io/badge/Intel-007bff?style=for-the-badge&logoColor=white)](https://academy.hackthebox.com/achievement/badge/ff4c8077-f166-11ee-b18d-bea50ffe6cb4)
 
 </details>
 
 <details>
   <summary>Nmap IDS/IPS Evasion Labs</summary>
-  &nbsp;
+ 
+ ## Nmap IDS/IPS Evasion Labs
   
   These exercises simulate testing a company's IDS and IPS defenses, with scenarios separated by difficulty level based on how effectively the systems detect and block our intrusions.
   
@@ -39,7 +40,8 @@ I'm currently enrolled in the SOC Analyst Job Role Patch on Hack The Box Academy
 
 <details>
   <summary>Security Information and Event Management (SIEM)</summary>
-  &nbsp;
+
+  ## Security Information and Event Management (SIEM)
  
   This project demonstrates the creation of a Security Information and Event Management (SIEM) home lab using my Kali Linux virtual machine and Elastic Cloud platform. The lab is designed to parse and monitor security-related logs and events from my local host (Kali Linux machine) and send the data to the Elastic Cloud server for centralized analysis, visualization, and alerting.
 
