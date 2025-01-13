@@ -87,7 +87,27 @@ I used the KQL (Kusto Query Language) tool to search for _**process.args : "nmap
 <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-11.png">
 
 We begin by defining the rule using a Custom Query type, selecting the relevant data view (logs-*), and constructing a query to detect nmap activity. The query, _**process.args : "nmap" or event.action : "nmap_scanning" and host.name : "kali"**_, filters logs to identify events where nmap scans are executed on the local host. To minimize duplicate alerts, suppression fields like _**Effective_process.entity_id**_ and _**Effective_process.name**_ are added, and the rule is set to trigger once per execution within a 5-minute window.
-  
+
+<hr>
+<img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-12.png">
+
+Next, we configure the basic details of the rule by providing a title and a description that outlines its purpose. The severity level is set to **Low** since nmap scans are typically reconnaissance activities performed for information gathering rather than overtly malicious actions
+
+The risk score is assigned a value of **50**, indicating a moderate level of concern. This score helps define how impactful the event could be on the host, balancing between informational and actionable risk.
+
+Finally, tags such as **nmap**, **reconnaissance**, and **localhost** are added to categorize the rule. These tags make it easier to filter and identify the type of alert triggered, streamlining future investigations and reports.
+
+<hr>
+<img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-13.png">
+
+In this step, we configured the schedule for the rule to ensure timely detection of nmap scans. The rule is set to run every 1 minute, enabling near real-time monitoring for any matching events. Additionally, the look-back time of 1 minute is configured to ensure no events are missed during execution intervals. This scheduling ensures the rule captures and alerts nmap scans promptly, providing quick notifications for immediate action.
+
+<hr>
+<img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-14.png">
+
+Finally, we configure the **action** to be taken when the rule's conditions are met. In this case, the SIEM is set to send an email notification using the preconfigured Elastic-Cloud-SMTP connector. The email contains a clear subject, _**"Alert: Nmap Scan Detected on Localhost"**_, and a concise message stating that an nmap scan has been detected and immediate action is required. This ensures that any suspicious activity is promptly communicated for further investigation or response.
+
+<hr>
 </details>
 
 [Go back to Main repository](https://github.com/uli385899/My-Projects-Portfolio)
