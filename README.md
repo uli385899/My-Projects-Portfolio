@@ -76,7 +76,7 @@ I used the KQL (Kusto Query Language) tool to search for _**process.args : "nmap
 <details>
   <summary>Creating a rule</summary>
 
-  ## The purpose of creating rules in SIEM systems
+  ## Creating rules in SIEM systems
 
   Rules in SIEM systems play a critical role in detecting, monitoring, and responding to security threats. They analyze ingested data in real-time to identify suspicious activities, such as brute force attacks, unauthorized access, or data exfiltration attempts. When specific conditions or patterns are met, rules trigger alerts that are sent to analysts for immediate action. This helps reduce incident response times, cut down on noise, and ensures security teams focus on actionable threats.
 
