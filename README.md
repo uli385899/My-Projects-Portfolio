@@ -135,8 +135,10 @@ Finally, we configure the **action** to be taken when the rule's conditions are 
   <hr>
 </details>
 
-## Conclusion
-
+<details>
+  <summary>Conclusion</summary>
+&nbsp;
+  
 From completing this lab, I gained valuable hands-on experience in the following areas:  
 - **Data Aggregation and Centralization:** Understanding how to collect, organize, and centralize logs from multiple sources into a SIEM.  
 - **Visualization Creation:** Developing intuitive dashboards to track and analyze log data effectively.  
@@ -144,6 +146,9 @@ From completing this lab, I gained valuable hands-on experience in the following
 - **Configuration and Customization:** Configuring specific parameters, such as time intervals and data filters, to meet targeted analytical needs.  
 - **Alert Rule Creation:** Designing and implementing custom rules for generating alerts based on specific log patterns or anomalies, enhancing proactive threat detection.
 
-This lab is just the beginning of my journey in leveraging SIEMs to enhance security within my virtualized network. By applying these skills, I plan to build more advanced monitoring solutions, refine detection mechanisms, and continually improve the security posture of my virtualized environments.
+</details>
+
+### Final Thoughts
+This lab just marks the beginning of my journey in leveraging SIEMs to enhance security within my network. By applying these skills, I plan to build more advanced monitoring solutions, refine detection mechanisms, and continually improve the security posture of my virtualized environments.
 
 [Go back to Main repository](https://github.com/uli385899/My-Projects-Portfolio)
