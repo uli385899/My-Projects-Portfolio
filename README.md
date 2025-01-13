@@ -11,9 +11,9 @@ My self-learning path in cybersecurity has led me to develop a passion to become
 [![Indeed](https://img.shields.io/badge/Indeed-808080?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/ulisesa-lfm3n5l)
 
 # What I'm currently working on
-I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB CPTS) path on Hack The Box Academy. Learning various attack vectors and bash tools to help me create a hacker's mindset that improves my ability to identify and defend against attacks.
+I'm currently enrolled in the SOC Analyst Job Role Patch on Hack The Box Academy. This academy path is designed to equip me with the skills and knowledge necessary to excel in security operations. The curriculum focuses on core concepts such as security monitoring, traffic analysis, SIEM tools, and detecting attack tactics and methodologies used by adversaries
 
-[![Hack The Box Progress](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/path/preview/penetration-tester)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/path/preview/soc-analyst)
 
 # Hack The Box
 
