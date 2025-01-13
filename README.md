@@ -39,17 +39,10 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
 
 <details>
   <summary>Security Information and Event Management (SIEM)</summary>
-  
-  ## Security Information and Event Management (SIEM)
-  
-  It's very simple, a virtualized network monitored with the Elastic Cloud SIEM. Here's a dashboard I've created that shows the number of records with its event type and corresponding IP addresses.
-  
-  <hr>
-  
-  <img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154738.png">
-  <img src="https://github.com/uli385899/uli385899/blob/main/.assets/Screenshot%202024-05-28%20154944.png">
-  
-  <hr>
+  &nbsp;
+ 
+  This project demonstrates the creation of a Security Information and Event Management (SIEM) home lab using my Kali Linux virtual machine and Elastic Cloud platform. The lab is designed to parse and monitor security-related logs and events from my local host (Kali Linux machine) and send the data to the Elastic Cloud server for centralized analysis, visualization, and alerting.
+
 </details>
 
 <details>
