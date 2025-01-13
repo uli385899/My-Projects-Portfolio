@@ -74,7 +74,7 @@ I used the KQL (Kusto Query Language) tool to search for _**process.args : "nmap
 </details>
 
 <details>
-  <summary>Creating rules</summary>
+  <summary>Creating a rule</summary>
 
   ## The purpose of creating rules in SIEM systems
 
