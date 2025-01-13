@@ -14,7 +14,7 @@ This project involves setting up a home SIEM (Security Information and Event Man
   </tr>
 </table>
 
-To set up the lab, the Elastic Defend agent was added as an integration on the Elastic Cloud platform. The integration process involved copying the installation commands provided by Elastic into the terminal on the Kali Linux machine. These commands installed and configured the Elastic Agent, enabling it to collect and forward system logs, security events, and other telemetry data from the local host to the Elastic Cloud server
+To set up the lab, the Elastic Defend agent was added as an integration on the Elastic Cloud platform. The integration process involved copying the installation commands provided by Elastic into the terminal on my local machine. These commands installed and configured the Elastic Agent, enabling it to collect and forward system logs, security events, and other telemetry data from the local host to the Elastic Cloud server
 
   ## Verifying intergration
 
