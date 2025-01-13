@@ -14,14 +14,14 @@ This project involves setting up a home SIEM (Security Information and Event Man
   </tr>
 </table>
 
-To set up the lab, the Elastic Defend agent was added as an integration on the Elastic Cloud platform. The integration process involved copying the installation commands provided by Elastic into the terminal on my local machine. These commands installed and configured the Elastic Agent, enabling it to collect and forward system logs, security events, and other telemetry data from the local host to the Elastic Cloud server
+To set up the lab, the Elastic Defend agent was added as an integration on the Elastic Cloud platform. The integration process involved copying the installation commands provided by Elastic into the terminal on my local machine. These commands installed and configured the Elastic Agent, enabling it to collect and forward system logs, security events, and other telemetry data from my local host to the Elastic Cloud server.
 
   ## Verifying intergration
 
 <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-4.1.png">
 <img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-5.1.png">
   
-To verify that telemetry data was being successfully forwarded from my local machine to the Elastic Cloud server, an nmap scan was executed. This generated system events and logs related to the scan, verification was performed by navigating to the Discovery tab in Elastic Defend and conducted a quick KQL search query for "nmap."
+To verify that telemetry data was being successfully forwarded from my local machine to the Elastic Cloud server, an nmap scan was executed. This generated system events and logs related to the scan. Verification was performed by navigating to the Discovery tab in Elastic Defend, conducting a quick KQL search query for "nmap".
   <hr>
 </details>
 
@@ -39,7 +39,7 @@ Creating visualizations for ingested data is essential for monitoring trends, id
  
 This visualization, titled "Logs Inflow," represents the number of logs recorded every 30 minutes on my local machine. The horizontal axis displays the timeline (@timestamp) in 30-minute intervals, while the vertical axis shows the count of records during each interval. The area chart provides an intuitive view of log volume trends, enabling quick identification of spikes in activity.
 
-Using the KQL (Kusto Query Language) tool above the dashboard helps extract specific insights from larger datasets, such as total record count. In the example above, I queried for _**process.args : "nmap"**_ to filter the data, reducing the number of records from thousands to lower double digits- making the results more focused and actionable.
+I used the KQL (Kusto Query Language) tool to search for _**process.args : "nmap"**_, filtering the data to reduce the number of records from thousands to just a few dozen. This approach makes the results more focused and actionable by narrowing down to relevant insights, which can later be used for different queries.
 
   ## My dashboard's visual configuration
 
