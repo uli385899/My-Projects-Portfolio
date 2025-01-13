@@ -149,6 +149,6 @@ From completing this lab, I gained valuable hands-on experience in the following
 </details>
 
 ### Final Thoughts
-This lab just marks the beginning of my journey in leveraging SIEMs to enhance security within my network. By applying these skills, I plan to build more advanced monitoring solutions, refine detection mechanisms, and continually improve the security posture of my virtualized environment.
+This lab just marks the beginning of my journey in leveraging SIEMs to enhance security within my network. By applying these skills, I plan to build more advanced monitoring solutions, refine detection mechanisms, and continually improve the security posture of my virtualized environments.
 
 [Go back to Main repository](https://github.com/uli385899/My-Projects-Portfolio)
