@@ -80,7 +80,13 @@ I used the KQL (Kusto Query Language) tool to search for _**process.args : "nmap
   Rules in SIEM systems play a critical role in detecting, monitoring, and responding to security threats. They analyze ingested data in real-time to identify suspicious activities, such as brute force attacks, unauthorized access, or data exfiltration attempts. When specific conditions or patterns are met, rules trigger alerts that are sent to analysts for immediate action. This helps reduce incident response times, cut down on noise, and ensures security teams focus on actionable threats.
 
   ## Nmap scanning detection rule
+  
+  In this rule, I configured the SIEM to detect any nmap scan executed on my local host by monitoring command-line arguments and specific event actions. When such activity is identified, the rule triggers an alert and sends a detailed notification via email. This rule helps ensure timely awareness of potential reconnaissance activities on the system.
 
+<hr>
+<img src="https://github.com/uli385899/My-Projects-Portfolio/blob/main/.assets/siem-11.png">
+
+We begin by defining the rule using a Custom Query type, selecting the relevant data view (logs-*), and constructing a query to detect nmap activity. The query, _**process.args : "nmap" or event.action : "nmap_scanning" and host.name : "kali"**_, filters logs to identify events where nmap scans are executed on the local host. To minimize duplicate alerts, suppression fields like _**Effective_process.entity_id**_ and _**Effective_process.name**_ are added, and the rule is set to trigger once per execution within a 5-minute window.
   
 </details>
 
