@@ -43,6 +43,8 @@ I'm currently enrolled in the HTB Certified Penetration Testing Specialist (HTB 
  
   This project demonstrates the creation of a Security Information and Event Management (SIEM) home lab using my Kali Linux virtual machine and Elastic Cloud platform. The lab is designed to parse and monitor security-related logs and events from my local host (Kali Linux machine) and send the data to the Elastic Cloud server for centralized analysis, visualization, and alerting.
 
+  [Link to the Home Lab - Branch](https://github.com/uli385899/My-Projects-Portfolio/tree/Security-Information-and-Event-Management-(SIEM))
+  
 </details>
 
 <details>
