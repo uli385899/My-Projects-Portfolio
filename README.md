@@ -13,7 +13,7 @@ My self-learning path in cybersecurity has led me to develop a passion to become
 # What I'm currently working on
 I am currently enrolled in the HTB Certified Defensive Security Analyst (HTB CDSA) course. This hands-on program focuses on developing expertise in SOC operations, including incident detection, traffic analysis, and correlating data across systems. The certification emphasizes identifying non-obvious detection avenues, pivoting effectively during investigations, and assessing the impact of security incidents to ensure a strong defensive security posture.
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/path/preview/soc-analyst)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
 
 # Hack The Box
 
