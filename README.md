@@ -11,7 +11,7 @@ My self-learning path in cybersecurity has led me to develop a passion to become
 [![Indeed](https://img.shields.io/badge/Indeed-808080?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/ulisesa-lfm3n5l)
 
 # What I'm currently working on
-I'm currently enrolled in the SOC Analyst Job Role Path on Hack The Box Academy. This academy path is designed to equip me with the skills and knowledge necessary to excel in security operations. The curriculum focuses on core concepts such as security monitoring, traffic analysis, SIEM tools, and detecting attack tactics and methodologies used by adversaries.
+I am currently enrolled in the HTB Certified Defensive Security Analyst (HTB CDSA) course. This hands-on program focuses on developing expertise in SOC operations, including incident detection, traffic analysis, and correlating data across systems. The certification emphasizes identifying non-obvious detection avenues, pivoting effectively during investigations, and assessing the impact of security incidents to ensure a strong defensive security posture.
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-2ecc71?style=for-the-badge&logo=hackthebox&logoColor=white)](https://academy.hackthebox.com/path/preview/soc-analyst)
 
